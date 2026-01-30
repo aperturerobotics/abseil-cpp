@@ -1,3 +1,5 @@
+//go:build deps_only && cgo
+
 #include "absl/time/clock.h"
 
 #include <sys/time.h>

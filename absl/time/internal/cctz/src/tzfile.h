@@ -1,3 +1,5 @@
+//go:build deps_only && cgo
+
 /* Layout and location of TZif files.  */
 
 #ifndef TZFILE_H

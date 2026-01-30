@@ -1,3 +1,5 @@
+//go:build deps_only && cgo
+
 // BEGIN GENERATED CODE; DO NOT EDIT
 // clang-format off
 

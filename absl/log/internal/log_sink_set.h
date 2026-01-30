@@ -1,3 +1,5 @@
+//go:build deps_only && cgo
+
 // Copyright 2022 The Abseil Authors.
 //
 // Licensed under the Apache License, Version 2.0 (the "License");
