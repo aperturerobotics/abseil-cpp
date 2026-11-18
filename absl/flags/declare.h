@@ -1,3 +1,5 @@
+//go:build deps_only && cgo
+
 //
 //  Copyright 2019 The Abseil Authors.
 //
